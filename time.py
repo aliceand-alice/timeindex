@@ -1,5 +1,5 @@
 #print a timeline
-
+print("Time-index task knowledge system: ")
 #nested data structure: list TIMELINE chứa dictionary DAY chứa dictionary STREAM chứa list PROGRAM
 stream = {"Stream" + str(X): ["pro1", "pro2"] for X in range(1, 4)}
 stream2 = {"Stream" + str(X): ["pro1", "pro2"] for X in range(1, 4)}
